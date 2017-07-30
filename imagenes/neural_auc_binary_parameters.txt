@@ -1,0 +1,17 @@
+?porcentaje_aciertos =  19.613
+ans = predicted_labels_neural
+ans = Y_test_neural
+ans = model_neural_theta1
+best_lambda =  0.60000
+best_num_nodos_capa_oculta =  25
+best_model_aucs_mean =
+
+   0.73911   0.72300   0.71925   0.73089   0.71926
+
+ind_best_model_i =
+
+   5   5   4   5   5
+
+best_model_aucs_mean_training =
+
+   1   1   1   1   1

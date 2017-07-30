@@ -1,0 +1,50 @@
+==================
+
+==========SVM========
+
+==================
+
+number_classes =  2
+auc =
+
+   0.97611
+   0.64958
+
+true_positives =
+
+   45
+   29
+
+false_positives =
+
+   12
+    4
+
+true_negatives =
+
+   29
+   45
+
+false_negatives =
+
+    4
+   12
+
+precision =
+
+   0.78947
+   0.87879
+
+recall =
+
+   0.91837
+   0.70732
+
+auc_mean =  0.81284
+true_positives_mean =  37
+false_positives_mean =  8
+true_negatives_mean =  37
+false_negatives_mean =  8
+precision_mean =  0.83413
+recall_mean =  0.81284
+accuracy_total =  82.222

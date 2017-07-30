@@ -1,0 +1,50 @@
+?==================
+
+==========REDES NEURONALES========
+
+==================
+
+number_classes =  2
+auc =
+
+   0.96516
+   0.59134
+
+true_positives =
+
+   44
+   27
+
+false_positives =
+
+   14
+    5
+
+true_negatives =
+
+   27
+   44
+
+false_negatives =
+
+    5
+   14
+
+precision =
+
+   0.75862
+   0.84375
+
+recall =
+
+   0.89796
+   0.65854
+
+auc_mean =  0.77825
+true_positives_mean =  35.500
+false_positives_mean =  9.5000
+true_negatives_mean =  35.500
+false_negatives_mean =  9.5000
+precision_mean =  0.80119
+recall_mean =  0.77825
+accuracy_total =  78.889

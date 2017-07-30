@@ -1,0 +1,9 @@
+??porcentajeCorrectos =  62.500
+ans = predicted_labels_reg
+ans = Y_test_reg
+best_lambda =  0.85000
+best_aucs_mean =  0.84860
+ind_best_model_i =  18
+best_aucs_mean_training =  1
+ind_best_model_it =  1
+ans =  62.500
